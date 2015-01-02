@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/nmartora/git/PROJ-MultiOp/sportsbook/DB/alter_scripts'
+let g:netrw_dirhist_2='/home/nmartora/git/PROJ-MultiOp/config/apps/env'
+let g:netrw_dirhist_3='/home/nmartora/.vim/bundle/vim-flake8'
+let g:netrw_dirhist_4='/home/nmartora'
+let g:netrw_dirhist_5='/home/nmartora/.vim'
+let g:netrw_dirhist_6='/home/nmartora/git/PROJ-MultiOp/sportsbook/apps/admin/html/ev_setup/hier_limits'
+let g:netrw_dirhist_7='/home/nmartora/workspace/playground/fantasyfootball/template'
